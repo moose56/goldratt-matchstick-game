@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d978c8a-fee4-4379-8e3c-631eefddbb89" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Svelte Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YTiL1YUpWunSSDc5NKB3raNfju" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="npm run dev" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d978c8a-fee4-4379-8e3c-631eefddbb89" name="Default Changelist" comment="" />
+      <created>1582972925425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582972925425</updated>
+      <workItem from="1582972929689" duration="57000" />
+      <workItem from="1582972996344" duration="1619000" />
+      <workItem from="1582975267720" duration="13206000" />
+      <workItem from="1583061124136" duration="3146000" />
+      <workItem from="1583229371417" duration="279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Other_File_Types" timestamp="1582980829057">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Other_File_Types/0.0.1440.900@0.0.1440.900" timestamp="1582980829057" />
+    <state x="320" y="115" key="#Plugins" timestamp="1582975255074">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Plugins/0.0.1440.900@0.0.1440.900" timestamp="1582975255074" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583091229086">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1583091229086" />
+    <state width="1398" height="312" key="GridCell.Tab.0.bottom" timestamp="1583091433789">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="312" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583091433789" />
+    <state width="1360" height="160" key="GridCell.Tab.0.bottom/38.23.1402.877@38.23.1402.877" timestamp="1582972986894" />
+    <state width="1398" height="312" key="GridCell.Tab.0.center" timestamp="1583091433788">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="312" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583091433788" />
+    <state width="1360" height="160" key="GridCell.Tab.0.center/38.23.1402.877@38.23.1402.877" timestamp="1582972986893" />
+    <state width="1398" height="312" key="GridCell.Tab.0.left" timestamp="1583091433788">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="312" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583091433788" />
+    <state width="1360" height="160" key="GridCell.Tab.0.left/38.23.1402.877@38.23.1402.877" timestamp="1582972986893" />
+    <state width="1398" height="312" key="GridCell.Tab.0.right" timestamp="1583091433789">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="312" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583091433789" />
+    <state width="1360" height="160" key="GridCell.Tab.0.right/38.23.1402.877@38.23.1402.877" timestamp="1582972986894" />
+    <state x="483" y="301" key="cloudConfig.SelfSettingsDialog" timestamp="1582980413265">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="483" y="301" key="cloudConfig.SelfSettingsDialog/0.0.1440.900@0.0.1440.900" timestamp="1582980413265" />
+    <state x="376" y="193" width="689" height="693" key="run.anything.popup" timestamp="1582975272526">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="376" y="193" width="689" height="693" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1582975272526" />
+    <state x="404" y="211" width="670" height="675" key="run.anything.popup/38.23.1402.877@38.23.1402.877" timestamp="1582973489298" />
+    <state x="376" y="195" width="689" height="694" key="search.everywhere.popup" timestamp="1583090218078">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="376" y="195" width="689" height="694" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1583090218078" />
+    <state x="404" y="213" width="670" height="676" key="search.everywhere.popup/38.23.1402.877@38.23.1402.877" timestamp="1582973485725" />
+  </component>
+</project>
